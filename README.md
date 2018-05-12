@@ -1,5 +1,10 @@
-# Face Recognition
-Detects and Recognise faces using python and opencv
+# Face Detection and Recognition
+Detects and recognizes faces using python and opencv
+
+<p align="center">
+  <img src="face_recognition_output.jpg" width=500 height=400>
+</p>
+ 
 
 ## Setup and Installation (Linux):
 
