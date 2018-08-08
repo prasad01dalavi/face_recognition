@@ -2,7 +2,7 @@
 Detects and recognizes faces using python and opencv
 
 <p align="center">
-  <img src="face_recognition.jpg" width=500 height=400>
+  <img src="face_recognition_output.jpg" width=500 height=400>
 </p>
  
 
